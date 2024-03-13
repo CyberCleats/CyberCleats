@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberCleats
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Detection & Response 
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on Automation
